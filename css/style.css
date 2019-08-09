@@ -10,4 +10,11 @@ body {
   font-family: Tahoma;
 }
 
+nav ul {
+  margin: 40px;
+}
+nav ul li {
+  line-height: 200%;
+}
+
 /*# sourceMappingURL=style.css.map */
